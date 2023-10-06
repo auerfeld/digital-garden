@@ -8,3 +8,4 @@
 
 { .block-language-dataview}
 
+[[My Front Page\|My Front Page]]
