@@ -12,3 +12,5 @@ I'll be reading, thinking (and eventually writing and talking) about Lethal Auto
 I'm using Obsidian to organise much of this research. This site will show some of my work in progress. 
 
 Initially, I aim to publish a timeline and bibliography here before the end of 2023. We'll see how that goes.
+
+[[Key Dates\|Key Dates]] 
