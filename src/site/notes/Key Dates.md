@@ -6,6 +6,7 @@
 | ------------------ | --------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | April 20, 2023     | <span class="more-text">[[events/AI in Weapons Systems committee third evidence session\|AI in Weapons Systems committee third evidence session]]</span>           |
 | April 27, 2023     | <span class="more-text">[[events/AI in Weapons Systems committee fourth evidence session\|AI in Weapons Systems committee fourth evidence session]]</span>         |
+| February 01, 2020  | <span class="more-text">[[events/Dummy\|Dummy]]</span>                                                                                                             |
 | June 08, 2023      | <span class="more-text">[[events/AI in Weapons Systems committee seventh evidence session\|AI in Weapons Systems committee seventh evidence session]]</span>       |
 | June 15, 2023      | <span class="more-text">[[events/AI in Weapons Systems committee eighth evidence session\|AI in Weapons Systems committee eighth evidence session]]</span>         |
 | June 22, 2023      | <span class="more-text">[[events/AI in Weapons Systems committee ninth evidence session\|AI in Weapons Systems committee ninth evidence session]]</span>           |
