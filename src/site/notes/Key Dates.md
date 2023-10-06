@@ -2,9 +2,10 @@
 {"dg-publish":true,"permalink":"/key-dates/"}
 ---
 
-| Date              | Event                                                                                                                                     |
-| ----------------- | ----------------------------------------------------------------------------------------------------------------------------------------- |
-| February 09, 2023 | <span class="more-text">[[events/AI in Weapons Systems committee first meeting\|AI in Weapons Systems committee first meeting]]</span> |
+| Date           | Event                                                                                                                                                         |
+| -------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| March 23, 2023 | <span class="more-text">[[events/AI in Weapons Systems committee first evidence session\|AI in Weapons Systems committee first evidence session]]</span>   |
+| March 30, 2023 | <span class="more-text">[[events/AI in Weapons Systems committee second evidence session\|AI in Weapons Systems committee second evidence session]]</span> |
 
 { .block-language-dataview}
 
