@@ -5,6 +5,8 @@
 | Date       | Event                                                                                                                                                                 |
 | ---------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | 2020-02-01 | <span class="more-text">[[events/Dummy\|Dummy]]</span>                                                                                                             |
+| 2023-02-15 | <span class="more-text">[[events/REAIM first day\|REAIM first day]]</span>                                                                                         |
+| 2023-02-16 | <span class="more-text">[[events/REAIM second day\|REAIM second day]]</span>                                                                                       |
 | 2023-03-23 | <span class="more-text">[[events/AI in Weapons Systems committee first evidence session\|AI in Weapons Systems committee first evidence session]]</span>           |
 | 2023-03-30 | <span class="more-text">[[events/AI in Weapons Systems committee second evidence session\|AI in Weapons Systems committee second evidence session]]</span>         |
 | 2023-04-20 | <span class="more-text">[[events/AI in Weapons Systems committee third evidence session\|AI in Weapons Systems committee third evidence session]]</span>           |
