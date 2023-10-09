@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-permalink":"02caricom","permalink":"/02caricom/","tags":["event","conference","gardenEntry","gardenEntry","gardenEntry","gardenEntry"]}
+{"dg-publish":true,"dg-permalink":"02caricom","permalink":"/02caricom/","tags":["event","conference","gardenEntry","gardenEntry","gardenEntry","gardenEntry","gardenEntry"]}
 ---
 
 CARICOM conference on the Human Impacts of Autonomous Weapons Systems
