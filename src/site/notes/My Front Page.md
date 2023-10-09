@@ -2,7 +2,7 @@
 {"dg-publish":true,"dg-permalink":"myfrontpage","permalink":"/myfrontpage/","tags":["gardenEntry"]}
 ---
 
-Here's some random text that I need to work on. 
+
 # What I want to do with this site
 
 In 2023-24 I'm very lucky to be one of the inaugural research fellows at the [Disruption Network Institute](https://www.disruptionlab.org/institute). 
