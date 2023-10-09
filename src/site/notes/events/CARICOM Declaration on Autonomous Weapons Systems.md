@@ -2,6 +2,10 @@
 {"dg-publish":true,"permalink":"/events/caricom-declaration-on-autonomous-weapons-systems/","tags":["event","armscontrol"]}
 ---
 
+Announced during CARICOM conference on the Human Impacts of Autonomous Weapons Systems
+
+https://www.caricom-aws2023.com/
+
 https://www.caricom-aws2023.com/_files/ugd/b69acc_4d08748208734b3ba849a4cb257ae189.pdf
 
 Press release:
