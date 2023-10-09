@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/events/comunicado-especial-sobre-el-impacto-social-y-humanitario-de-las-armas-autonomas/"}
+{"dg-publish":true,"permalink":"/events/comunicado-especial-sobre-el-impacto-social-y-humanitario-de-las-armas-autonomas/","tags":["#event","#armscontrol"]}
 ---
 
 
