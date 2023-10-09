@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/events/latin-american-and-caribbean-conference-on-the-social-and-humanitarian-impact-of-autonomous-weapons-first-day/"}
+{"dg-publish":true,"permalink":"/events/latin-american-and-caribbean-conference-on-the-social-and-humanitarian-impact-of-autonomous-weapons-first-day/","tags":["#event","#conference"]}
 ---
 
 agenda:
