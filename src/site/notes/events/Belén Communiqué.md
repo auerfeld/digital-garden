@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/events/belen-communique/"}
+{"dg-publish":true,"permalink":"/events/belen-communique/","tags":["#event","armscontrol"]}
 ---
 
 https://conferenciaawscostarica2023.com/wp-content/uploads/2023/02/EN-Communique-of-La-Ribera-de-Belen-Costa-Rica-February-23-24-2023..pdf
