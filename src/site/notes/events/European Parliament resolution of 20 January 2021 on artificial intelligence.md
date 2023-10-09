@@ -8,3 +8,7 @@ European Parliament resolution of 20 January 2021 on artificial intelligence: q
 
 https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX%3A52021IP0009#ntr8-C_2021456EN.01003401-E0008
 
+[[Key Dates\|Key Dates]]
+[[My Front Page\|My Front Page]]
+
+
