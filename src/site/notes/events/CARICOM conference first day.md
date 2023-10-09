@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/events/caricom-conference-first-day/","tags":["event","conference"]}
+{"dg-publish":true,"dg-permalink":"01caricom","permalink":"/01caricom/","tags":["event","conference"]}
 ---
 
 CARICOM conference on the Human Impacts of Autonomous Weapons Systems
