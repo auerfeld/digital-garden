@@ -1,0 +1,13 @@
+.table-view-table a {
+	border: none;
+}
+
+.table-view-table {
+	font-size: 0.8em;
+	font-family: var(--font-mono);
+}
+
+.table-view-table .more-text a:after {
+	content: ' ▪';
+	color: var(--color-6);
+}
