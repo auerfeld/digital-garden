@@ -12,6 +12,5 @@ On 25/03/2023 at 28th Iberoamerican summit 22 heads of state and government issu
 
 https://www.segib.org/?document=comunicado-especial-sobre-el-impacto-social-y-humanitario-de-las-armas-autonomas
 
-
-
-
+[[Key Dates\|Key Dates]]
+[[My Front Page\|My Front Page]]
