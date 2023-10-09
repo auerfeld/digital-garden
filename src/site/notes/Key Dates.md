@@ -9,6 +9,8 @@
 | 2023-02-16 | <span class="more-text">[[events/REAIM second day\|REAIM second day]]</span>                                                                                       |
 | 2023-03-23 | <span class="more-text">[[events/AI in Weapons Systems committee first evidence session\|AI in Weapons Systems committee first evidence session]]</span>           |
 | 2023-03-30 | <span class="more-text">[[events/AI in Weapons Systems committee second evidence session\|AI in Weapons Systems committee second evidence session]]</span>         |
+| 2023-04-15 | <span class="more-text">[[events/Luxembourg Autonomous Weapons Systems Conference first day\|Luxembourg Autonomous Weapons Systems Conference first day]]</span>   |
+| 2023-04-16 | <span class="more-text">[[events/Luxembourg Autonomous Weapons Systems Conference second day\|Luxembourg Autonomous Weapons Systems Conference second day]]</span> |
 | 2023-04-20 | <span class="more-text">[[events/AI in Weapons Systems committee third evidence session\|AI in Weapons Systems committee third evidence session]]</span>           |
 | 2023-04-27 | <span class="more-text">[[events/AI in Weapons Systems committee fourth evidence session\|AI in Weapons Systems committee fourth evidence session]]</span>         |
 | 2023-05-25 | <span class="more-text">[[events/AI in Weapons Systems committee sixth evidence session\|AI in Weapons Systems committee sixth evidence session]]</span>           |
