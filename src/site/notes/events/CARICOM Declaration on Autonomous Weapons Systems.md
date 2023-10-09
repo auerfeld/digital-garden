@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-permalink":"03caricom","permalink":"/03caricom/","tags":["event","armscontrol"]}
+{"dg-publish":true,"dg-permalink":"caricom","permalink":"/caricom/","tags":["event","armscontrol"]}
 ---
 
 Announced during CARICOM conference on the Human Impacts of Autonomous Weapons Systems
