@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/events/reaim-second-day/","tags":["event"]}
+{"dg-publish":true,"permalink":"/events/reaim-second-day/","tags":["event","#conference"]}
 ---
 
 Second day of REAIM conference in The Hague
