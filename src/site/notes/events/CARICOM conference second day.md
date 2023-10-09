@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/events/caricom-conference-second-day/","tags":["event","conference","gardenEntry","gardenEntry"]}
+{"dg-publish":true,"permalink":"/events/caricom-conference-second-day/","tags":["event","conference","gardenEntry"]}
 ---
 
 CARICOM conference on the Human Impacts of Autonomous Weapons Systems
