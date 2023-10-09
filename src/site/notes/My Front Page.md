@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/my-front-page/","tags":["gardenEntry"]}
+{"dg-publish":true,"dg-permalink":"index","permalink":"/index/","tags":["gardenEntry"]}
 ---
 
 Here's some random text that I need to work on. 
