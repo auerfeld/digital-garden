@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/events/luxembourg-autonomous-weapons-systems-conference-first-day/","tags":["event"]}
+{"dg-publish":true,"permalink":"/events/luxembourg-autonomous-weapons-systems-conference-first-day/","tags":["event","#conference"]}
 ---
 
 First day 
