@@ -7,6 +7,6 @@ At 28th Iberoamerican summit 22 heads of state and government issue statement wi
 
 https://www.segib.org/?document=comunicado-especial-sobre-el-impacto-social-y-humanitario-de-las-armas-autonomas
 
-
-
+[[Key Dates\|Key Dates]]
+[[My Front Page\|My Front Page]]
 
