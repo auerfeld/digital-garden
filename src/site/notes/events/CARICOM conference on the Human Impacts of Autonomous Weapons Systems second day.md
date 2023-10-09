@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/events/caricom-conference-on-the-human-impacts-of-autonomous-weapons-systems-second-day/","tags":["event","conference","gardenEntry"]}
+{"dg-publish":true,"permalink":"/events/caricom-conference-on-the-human-impacts-of-autonomous-weapons-systems-second-day/","tags":["event","conference","gardenEntry","gardenEntry"]}
 ---
 
 
