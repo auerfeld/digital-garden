@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/events/european-parliament-resolution-of-20-january-2021-on-artificial-intelligence/"}
+{"dg-publish":true,"permalink":"/events/european-parliament-resolution-of-20-january-2021-on-artificial-intelligence/","tags":["#event","#europeanparliament"]}
 ---
 
 European Parliament resolution of 20 January 2021 on artificial intelligence: questions of interpretation and application of international law in so far as the EU is affected in the areas of civil and military uses and of state authority outside the scope of criminal justice (2020/2013(INI))
