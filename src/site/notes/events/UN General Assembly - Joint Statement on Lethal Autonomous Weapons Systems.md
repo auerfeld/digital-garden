@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/events/un-general-assembly-joint-statement-on-lethal-autonomous-weapons-systems/"}
+{"dg-publish":true,"permalink":"/events/un-general-assembly-joint-statement-on-lethal-autonomous-weapons-systems/","tags":["#event","#unitednations"]}
 ---
 
 https://ecnl.org/sites/default/files/2022-10/Res1.pdf
