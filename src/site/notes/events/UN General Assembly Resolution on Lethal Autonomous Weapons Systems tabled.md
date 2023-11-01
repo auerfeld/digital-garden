@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/events/un-general-assembly-resolution-on-lethal-autonomous-weapons-systems-tabled/","tags":["#event","#unitednations"]}
+{"dg-publish":true,"dg-permalink":"un-ga-table","permalink":"/un-ga-table/","tags":["#event","#unitednations"]}
 ---
 
 Voting expected at the end of the month.
